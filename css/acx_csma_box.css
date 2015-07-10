@@ -1,0 +1,149 @@
+#acx_csma_1_p_q_and_a_h_main_holder {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 96%;
+}
+#acx_csma_2_p_q_and_a_h_main_holder{
+	height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 96%;
+}
+#acx_csma_3_p_q_and_a_h_main_holder{
+	height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 96%;
+}
+#acx_csma_4_p_q_and_a_h_main_holder{
+	height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 96%;
+}
+#acx_csma_5_p_q_and_a_h_main_holder{
+	height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 96%;
+}
+
+#acx_csmap_q_and_a_h {
+    background: none repeat scroll 0 0 #dad6d6;
+    border-radius: 8px;
+    color: white;
+    display: inline-block;
+    font-family: verdana;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 10px;
+    max-width: 98%;
+    padding: 10px;
+    text-transform: capitalize;
+    width: 96%;
+}
+#acx_csmap_q_and_a_h input {
+    border: 1px solid lightblue;
+    float: right;
+    margin-right: 20px;
+    margin-top: 5px;
+    max-width: 96%;
+    width: 255px;
+}
+#acx_csmap_q_and_a_h textarea {
+    display: block;
+    float: right;
+    line-height: 1.4;
+    margin-right: 20px;
+    overflow: auto;
+    padding: 2px 6px;
+    width: 54%;
+}
+#acx_csmap_q_and_a_h select {
+    float: right;
+    font-size: 12px;
+    margin-right: 20px;
+    margin-top: 11px;
+    max-width: 15%;
+    width: 245px;
+}
+#acx_csmap_q_and_a_h label {
+    cursor: default;
+    display: block;
+    float: left;
+    max-width: 99%;
+    padding-bottom: 10px;
+    padding-right: 12px;
+    text-align: justify;
+    width: 52%;
+	line-height:30px;
+}
+#acx_csmap_q_and_a_h .acx_qa_field {
+    float: right;
+    min-width: 276px;
+    width: 43%;
+}
+#acx_csmap_q_and_a_h .acx_csmap_q_and_a_inside {
+    color: #747474;
+    display: inline-block;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    padding: 8px 1%;
+    text-align: left;
+    width: 98%;
+}
+#acx_csmap_q_and_a_h .acx_csma_q {
+    color: #393939;
+    cursor: pointer;
+    display: inline-block;
+    float: left;
+    max-width: 100%;
+    min-height: 18px;
+    text-shadow: 1px 1px 1px #e0d8d8;
+    width: 675px;
+}
+#acx_csmap_q_and_a_h .acx_csma_toggle {
+    cursor: pointer;
+    float: right;
+    height: 22px;
+    width: 22px;
+}
+#acx_csmap_q_and_a_h .plus {
+    background: url("../images/plus.png") repeat scroll 0 0 transparent;
+}
+#acx_csmap_q_and_a_h .minus {
+    background: url("../images/minus.png") repeat scroll 0 0 transparent;
+}
+#acx_csmap_q_and_a_h .acx_open {
+    background: none repeat scroll 0 0 white;
+    border-radius: 5px;
+    display: inline-block !important;
+    margin-top: 8px;
+    min-height: 50px;
+    width: 100%;
+}
+.acx_csmap_q_and_a_h_info
+{
+    background: none repeat scroll 0 0 whitesmoke;
+    border: 1px solid lightgray;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 12px;
+    padding: 1%;
+    text-align: center;
+    width: 90%;
+}
+.acx_csmap_q_and_a_h_info a
+{
+    background: none repeat scroll 0 0 buttonhighlight;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    box-shadow: 0 1px 0 #fff inset, 0 1px 0 rgba(0, 0, 0, 0.08);
+    color: black;
+    margin-left: 10px;
+    padding: 4px;
+    text-decoration: none;
+}

@@ -1,0 +1,210 @@
+.acx_csmap_button_reset
+{
+color: grey;
+cursor: pointer;
+font-family: arial;
+font-size: 12px;
+margin-left: 5px;
+}
+.acx_csma_tab
+{
+background: lavender none repeat scroll 0 0;
+cursor: pointer;
+font-family: arial;
+font-size: 15px;
+font-weight: 400;
+margin-left: -3px;
+padding: 7px 36px;
+}
+.acx_csma_tab_active{
+    border-bottom: 2px solid cornflowerblue;
+    padding-bottom: 5px !important;
+}
+#acx_csma_span
+{
+font-size:10px;
+}
+/* Starting CSS for Quick Request Form */
+#acx_quick_request_form
+{
+	background: none repeat scroll 0 0 #afeeee;
+    border-radius: 5px;
+    border-top: 3px solid #6495ed;
+    height: 390px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width: 350px;
+}
+#acx_quick_request_form input
+{
+    border: 1px solid #20B2AA;
+    width: 245px;
+}
+#acx_quick_request_form textarea
+{
+    border: 1px solid #20B2AA;
+    width: 245px;
+	height:100px;
+}
+#acx_quick_request_form .acx_qr_label
+{
+float: left;
+font-family: arial;
+min-width: 90px;
+padding-right: 10px;
+padding-top: 6px;
+margin-bottom:5px;
+}
+#acx_quick_request_form .acx_qr_field
+{
+    float: left;
+	margin-bottom:5px;
+}
+#acx_quick_request_form span
+{
+color:red;
+}
+#acx_quick_request_form h2
+{
+font-family: arial;
+font-size: 17px;
+line-height: 28px;
+margin: 0 0 14px;
+text-align: center;
+text-transform: capitalize;
+}
+/* Ending CSS for Quick Request Form */
+/* Starting Ad Banner Code */
+#acx_ad_banners_csma
+{
+    float: left;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    min-height: 80px;
+    width: 100%;
+}
+#acx_ad_banners_csma .acx_ad_csma_1
+{
+border: 1px solid #E6E6FA;
+border-radius: 7px;
+float: left;
+margin-left: 8px;
+overflow: hidden;
+width: 260px;
+height:auto;
+display:block;
+}
+#acx_ad_banners_csma .acx_ad_csma_title
+{
+background:none repeat scroll 0 0 inactivecaptiontext;
+border-bottom: 1px dashed #D3D3D3;
+color: #FFFFFF;
+float: left;
+font-family: 'Raleway',sans-serif;
+font-size: 15px;
+font-weight: normal;
+opacity: 0.8;
+padding-bottom: 6px;
+padding-top: 6px;
+text-align: center;
+width: 100%;
+}
+#acx_ad_banners_csma .acx_ad_csma_desc
+{
+    background: url("../images/wp.png") no-repeat scroll 5px center rgba(0, 0, 0, 0);
+    float: left;
+    font-family: arial;
+    font-size: 13px;
+    height: 31px;
+    padding-left: 42px;
+    padding-top: 12px;
+    text-transform: capitalize;
+    width: 213px;
+	color: black;
+}
+#acx_ad_banners_csma .acx_ad_csma_desc2
+{
+background: url("../images/des.png") no-repeat scroll 5px center rgba(0, 0, 0, 0);
+}
+#acx_ad_banners_csma .acx_ad_csma_desc3
+{
+background: url("../images/plug.png") no-repeat scroll 5px center rgba(0, 0, 0, 0);
+}
+#acx_ad_banners_csma .acx_ad_csma_desc4
+{
+background: url("../images/quick.png") no-repeat scroll 5px center rgba(0, 0, 0, 0);
+}
+/* Ending Ad Banner Code */
+#acx_trouble_ul
+{
+display: inline-block;
+list-style: none outside none;
+width: 100%;
+}
+#acx_trouble_ul li
+{
+  background: url("../images/tag.png") no-repeat scroll 6px center #F8F8FF;
+  border: 1px dashed #808080;
+  color: #006400;
+  float: left;
+  font-size: 13px;
+  list-style: none outside none;
+  margin-left: 2px;
+  margin-right: 2px;
+  padding: 5px;
+  text-indent: 24px;
+  text-transform: capitalize;
+}
+#acx_trouble_ul li a
+{
+text-decoration:none !important;
+color:#006400;
+}
+{
+	padding:0;
+	margin:0;
+}
+.acx_csma_template_option_holder
+{
+    float: left;
+    width: 100%;
+}
+#main
+{
+	width:100%;
+	float:left;
+}
+.acx_csma_general table tr td:nth-child(1) {
+    width: 30%;
+}
+
+#img_holder
+{
+	width:14%;
+	float:left;
+	margin: 30px 1%;
+	box-sizing:border-box;
+	
+}
+#img_holder img
+{
+	width:100%;
+	vertical-align:middle;
+	display:block;
+}
+
+@media screen and (max-width:544px)
+{
+	#img_holder
+	{
+		width:98%;
+	}
+}
+@media screen and (max-width:980px) and (min-width:544px)
+{
+	#img_holder
+	{
+		width:48%;
+	}
+}
