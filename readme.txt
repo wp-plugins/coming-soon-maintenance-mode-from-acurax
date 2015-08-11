@@ -4,7 +4,7 @@ Donate link: http://www.acurax.com/home.php
 
 Tags: coming soon,under maintenance,maintenance mode,under construction,site offline,work in progress,website launch,launching page
 Requires at least: 2.8
-Tested up to: 4.2.2
+Tested up to: 4.2.4
 Stable tag: trunk
 License: GPLv2 or later
 
